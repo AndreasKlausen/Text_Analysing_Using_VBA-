@@ -23,7 +23,7 @@ Inside the file you will see four spreadsheats:
 
 ![Figure 3: Start Button](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%20button.png)
 
-3. "free text": This is the spreadsheet you have to input your textfields (as you see in the example)
+2. "free text": This is the spreadsheet you have to input your textfields (as you see in the example). Some tools for questionaire will count free text field with the same content. For example, "lactose free yogurt" was entered by three differnet persons. Some tools will give you following output: "lactose free yogurt - 3". You can transfer these number into the column "counts". Our tool will note this. IMPORTANT: in all other cases you have to enter "1"!
 
 ![Figure 4: free text spreadsheet](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%20free%20text.png)
 
@@ -34,6 +34,8 @@ In the category "fruits" you will find following contexts: "kiwi", "banana" and 
 ![Figure 5: Category](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%20category.png)
 
 4. "result": in this spreadsheet you will find the results af analysing. While analysing our tool counts the assignments of each category. The result of counting you will find here.
+
+![Figure 6: Result](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%20result.png)
 
 Information: You don't have to clear the spreadsheets before analysing. Our tool will clear the entries and the results every time you startet a new analasing.
 
