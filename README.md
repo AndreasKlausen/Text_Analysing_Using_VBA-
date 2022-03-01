@@ -25,7 +25,7 @@ Inside the file you will see four spreadsheats:
 
 3. "free text": This is the spreadsheet you have to input your textfields (as you see in the example)
 
-![Figure 4: free text spreadsheet](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%20free text.png)
+![Figure 4: free text spreadsheet](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%20free%20text.png)
 
 3. "category": Here you can declare your categories and assign contexts to the categories. You also can declare exception.
 As you see in the spreadsheet there are categories like "cheese", "bread", "fruit" and so on. In the columns right of them you will the contexts. 
