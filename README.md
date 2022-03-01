@@ -7,7 +7,7 @@ Many questionaires use closed questions. But there are often also open-end quest
 
 You are the owner of a hotel. With an online questionaire you ask your guests about the sprended time in your hotel. 
 Figure 1 shows a part of this questionaire.
-
+![Figure 1: Online Questionaire](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Preparing:
 1. Create a new table.
