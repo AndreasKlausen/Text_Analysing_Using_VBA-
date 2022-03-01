@@ -47,7 +47,7 @@ Information: You don't have to clear the spreadsheets before analysing. Our tool
 
 ### Try Out!
 
-You can download the file "TextAnalysis_using_VBA_v_1_0_with example.xlsm". Go to the first spreadsheet "START" and press the button. After a few seconds analysing is finished and the result will be shown. Go to the spreadsheet "free text". You will see new entries right of the colomn "counts". These are the assigned categories. Maybe this is very helpful for your own projects, because you can see if you have to add contexts or include exceptions.
+You can download the file "TextAnalysis_using_VBA_v_1_0_with example.xlsm". Go to the first spreadsheet "START" and press the button. After a few seconds analysing is finished and the result will be shown. Go to the spreadsheet "free text". You will see new entries right of the colomn "counts". These are the assigned categories. Maybe this is very helpful for your own projects, because you can see if you have to add contexts or include exceptions. Try to change the counts in the spreasheet "free text" and start analysing again. See the different results.
 
 For your own projects you can use the file with the example of course. Please overwrite our entries. But there is also a clear file without entries you can use: "TextAnalysis_using_VBA_v_1_0.xlsm". 
 
