@@ -1,7 +1,14 @@
 # Text_Analysing_Using_VBA-
-descriptive quantitative free text analysis approach using Visual Basic for Applications
+## Descriptive quantitative free text analysis approach using Visual Basic for Applications
 
+### Introduction
 This VBA-Routine for Excel helps you to analyse text string and assigne them to categories.
+Many questionaires use closed questions. But there are often also open-end questions. To analyse those open-end question is very important becaus of the new informations you will get. One possibility to analyse the content of an open-end text field ist to look for keywords and assign the content to category. So you can count assigned categories to get a feeling for impotance. Our tool will do this job for you. I will demonstrate the function of our analysing tool by a little example:
+
+You are the owner of a hotel. With an online questionaire you ask your guests about the sprended time in your hotel. 
+Figure 1 shows a part of this questionaire.
+
+
 Preparing:
 1. Create a new table.
 2. Insert three spreadsheets
