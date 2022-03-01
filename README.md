@@ -6,8 +6,17 @@ This VBA-Routine for Excel helps you to analyse text string and assigne them to 
 Many questionaires use closed questions. But there are often also open-end questions. To analyse those open-end question is very important becaus of the new informations you will get. One possibility to analyse the content of an open-end text field ist to look for keywords and assign the content to category. So you can count assigned categories to get a feeling for impotance. Our tool will do this job for you. I will demonstrate the function of our analysing tool by a little example:
 
 You are the owner of a hotel. With an online questionaire you ask your guests about the sprended time in your hotel. 
-Figure 1 shows a part of this questionaire.
-![Figure 1: Online Questionaire](https://myoctocat.com/assets/images/base-octocat.svg)
+This Figure shows a part of this questionaire.
+
+![Figure 1: Online Questionaire](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/online%20questinaire.png)
+
+As you see, question 4 is an open-end question.
+You can transfer the answers of this questionaire - and also the contents of the open-end text field of question number 4 - into an excel sheet.
+ma##Maybe this will look like this:
+
+
+
+
 
 Preparing:
 1. Create a new table.
