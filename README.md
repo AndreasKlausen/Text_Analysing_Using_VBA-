@@ -21,15 +21,17 @@ Please download the Excel file "TextAnalysis_v_1_0_with example". Open the file.
 Inside the file you will see four spreadsheats:
 1. "START": Here you will find the button to start the analyse 
 
+![Figure 3: Start Button](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%20button.png)
 
 3. "free text": This is the spreadsheet you have to input your textfields (as you see in the example)
 
-
+![Figure 4: free text spreadsheet](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%20category.png)
 
 3. "category": Here you can declare your categories and assign contexts to the categories. You also can declare exception.
 As you see in the spreadsheet there are categories like "cheese", "bread", "fruit" and so on. In the columns right of them you will the contexts. 
 In the category "fruits" you will find following contexts: "kiwi", "banana" and so on. You will also find "raspberry !juice". The exclamation mark declared an exception. When the text field contains the word "raspberry" the text field will assigned the text field to the category "fruits". When the text field contains "raspberry juice" it will also be assigned to the category "fruits". With the exception "!juice" it will not. Maybe the content of the text filed contains "orange, orange juice" and you declared "orange !juce" in the category "juice" and "orange" in the category "fruit" the tool will detect both categories: "fruits" and "juice".  
 
+![Figure 5: Category](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%20category.png)
 
 4. "result": in this spreadsheet you will find the results af analysing. While analysing our tool counts the assignments of each category. The result of counting you will find here.
 
