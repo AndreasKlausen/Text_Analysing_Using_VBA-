@@ -17,7 +17,21 @@ Maybe this will look like this:
 ![Figure 2: Excel Transfer](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%201.png)
 
 Now you can use our little tool to assigne the content of the text fields to diffenernt category.
-Please download the Excel file "
+Please download the Excel file "TextAnalysis_v_1_0_with example". Open the file. Maybe you have to allow editing because of the VBA-routine inside the file.
+Inside the file you will see four spreadsheats:
+1. "START": Here you will find the button to start the analyse 
+2. "free text": This is the spreadsheet you have to input your textfields (as you see in the example)
+
+
+
+3. "category": Here you can declare your categories and assign contexts to the categories. You also can declare exception.
+As you see in the spreadsheet there are categories like "cheese", "bread", "fruit" and so on. In the columns right of them you will the contexts. 
+In the category "fruits" you will find following contexts: "kiwi", "banana" and so on. You will also find "raspberry !juice". The exclamation mark declared an exception. When the text field contains the word "raspberry" the text field will assigned the text field to the category "fruits". When the text field contains "raspberry juice" it will also be assigned to the category "fruits". With the exception "!juice" it will not. Maybe the content of the text filed contains "orange, orange juice" and you declared "orange !juce" in the category "juice" and "orange" in the category "fruit" the tool will detect both categories: "fruits" and "juice".  
+
+
+4. "result": in this spreadsheet you will find the results af analysing. While analysing our tool counts the assignments of each category. The result of counting you will find here.
+
+Information: You don't have to clear the spreadsheets before analysing. Our tool will clear the entries and the results every time you startet a new analasing.
 
 Preparing:
 1. Create a new table.
