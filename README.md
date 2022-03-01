@@ -20,7 +20,7 @@ Maybe this will look like this:
 ![Figure 2: Excel Transfer](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%201.png)
 
 Now you can use our little tool to assigne the content of the text fields to diffenernt categories.
-Please download the Excel file "TextAnalysis_v_1_0_with example". Open the file. Maybe you have to allow editing because of the VBA-routine inside the file.
+Please download the Excel file "TextAnalysis_using_VBA_v_1_0_with example.xlsm". Open the file. Maybe you have to allow editing because of the VBA-routine inside the file.
 Inside the file you will see four spreadsheats:
 1. "START": Here you will find the button to start the analyse 
 
@@ -29,6 +29,9 @@ Inside the file you will see four spreadsheats:
 2. "free text": This is the spreadsheet you have to input your textfields (as you see in the example). Some tools for questionaire will count free text field with the same content. For example, "lactose free yogurt" was entered by three differnet persons. Some tools will give you following output: "lactose free yogurt - 3". You can transfer these number into the column "counts". Our tool will note this. IMPORTANT: in all other cases you have to enter "1"!
 
 ![Figure 4: free text spreadsheet](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%20free%20text.png)
+
+You will also find the VBA-routine in the files.
+
 
 3. "category": Here you can declare your categories and assign contexts to the categories. You also can declare exception.
 As you see in the spreadsheet there are categories like "cheese", "bread", "fruit" and so on. In the columns right of them you will the contexts. 
@@ -44,8 +47,8 @@ Information: You don't have to clear the spreadsheets before analysing. Our tool
 
 ### Try Out!
 
-You can download the file "TextAnalysis_v_1_0_with example". Go to the first spreadsheet "START" and press the button. After a few seconds analysing is finished and the result will be shown. Go to the spreadsheet "free text". You will see new entries right of the colomn "counts". These are the assigned categories. Maybe this is very helpful for your own projects, because you can see if you have to add contexts or include exceptions.
+You can download the file "TextAnalysis_using_VBA_v_1_0_with example.xlsm". Go to the first spreadsheet "START" and press the button. After a few seconds analysing is finished and the result will be shown. Go to the spreadsheet "free text". You will see new entries right of the colomn "counts". These are the assigned categories. Maybe this is very helpful for your own projects, because you can see if you have to add contexts or include exceptions.
 
-For your own projects you can use the file with the example of course. Please overwrite our entries. But there is also a clear file without entries you can use.
+For your own projects you can use the file with the example of course. Please overwrite our entries. But there is also a clear file without entries you can use: "TextAnalysis_using_VBA_v_1_0.xlsm". 
 
-
+**Please note that they do not change the names of the spreadsheets and do not overwrite the headings in the spreadsheets!**
