@@ -16,11 +16,13 @@ Maybe this will look like this:
 
 ![Figure 2: Excel Transfer](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%201.png)
 
-Now you can use our little tool to assigne the content of the text fields to diffenernt category.
+Now you can use our little tool to assigne the content of the text fields to diffenernt categories.
 Please download the Excel file "TextAnalysis_v_1_0_with example". Open the file. Maybe you have to allow editing because of the VBA-routine inside the file.
 Inside the file you will see four spreadsheats:
 1. "START": Here you will find the button to start the analyse 
-2. "free text": This is the spreadsheet you have to input your textfields (as you see in the example)
+
+
+3. "free text": This is the spreadsheet you have to input your textfields (as you see in the example)
 
 
 
