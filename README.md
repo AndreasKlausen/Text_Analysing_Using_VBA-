@@ -12,11 +12,12 @@ This Figure shows a part of this questionaire.
 
 As you see, question 4 is an open-end question.
 You can transfer the answers of this questionaire - and also the contents of the open-end text field of question number 4 - into an excel sheet.
-ma##Maybe this will look like this:
+Maybe this will look like this:
 
+![Figure 2: Excel Transfer](https://github.com/AndreasKlausen/Text_Analysing_Using_VBA-/blob/main/excel%201.png)
 
-
-
+Now you can use our little tool to assigne the content of the text fields to diffenernt category.
+Please download the Excel file "
 
 Preparing:
 1. Create a new table.
